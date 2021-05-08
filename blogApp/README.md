@@ -1,1 +1,0 @@
-Credit for this project concept belongs to Colt Steele and his course “The Web Developer Bootcamp” on udemy.com
